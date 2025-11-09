@@ -7,3 +7,4 @@ This repository contains official documents of the NaMi (Nanoelectronics and Mic
 
 - `rules/` - contains the official rules and regulations of the NaMi Scientific Circle (available in Polish, work in progress) 
 - `declaration/` - contains membership declaration forms for the NaMi Scientific Circle (available in Polish)
+- `logo/` - contains the official logo of the NaMi Scientific Circle in various formats
